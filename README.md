@@ -8,7 +8,7 @@ turn of everything exept for IPV4 (if you live in a house with other people usin
 - download tpc optimzer - https://www.speedguide.net/downloads.php
 start as admin
 
-//GENERAL SETTINGS
+// GENERAL SETTINGS
 
 max connection speed
 
@@ -54,13 +54,13 @@ Large System Cache: disable
 
 NON Sack RTT: disable
 
-//NOW RESTART YOUR COMPUTER
+// NOW RESTART YOUR COMPUTER
 
 -------------------------------------
 
 - Next go to Control Panel > Network & Internet > Network & Sharing Center > Ethernet > Properties > Configure
 
-DISABLE ALL THESE SETTINGS BELOW
+/// DISABLE ALL THESE SETTINGS BELOW
 
 ARP OFFLOAD
 
@@ -90,12 +90,12 @@ WAKE ON PATTERN MATCH
 
 ------------------------------------------
 
-- NEXT RUN THE NETWORK TWEAKER.ps1 with powershell in admin
+- next run the NETWORK TWEAKER.ps1 with powershell in admin
 
 select your adapter from the top left
 
-Disable all setting under POWER SAVING SETTINGS
+disable all setting under POWER SAVING SETTINGS
 
 and disable Network Direct and Task Offload in GLOBAL SETTINGS 
 
-//THEN RESTART
+// THEN RESTART
