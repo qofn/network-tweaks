@@ -1,3 +1,7 @@
+- PLEASE CHECK MY SPECS IN MY OTHER GITHUB REPO SO YOU KNOW THE HARDWARE I USE FOR THESE TWEAKS, THANKS
+
+- ALWAYS CREATE A RESTORE POINT BEFORE DOING ANY TWEAKS OR OPTIMIZATIONS
+
 *(make sure your ethernet drivers are updated by going to your motherboards website and download the most recent ethernet/network drivers)*
 
 - go to ethernet properties in controll panel - Control Panel > Network & Internet > Network & Sharing Center > Ethernet > Properties
