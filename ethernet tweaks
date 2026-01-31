@@ -1,4 +1,4 @@
-*(make sure your ethernet drivers are updated by going to your motherboards website and download the most recent audio drivers)*
+ *(make sure your ethernet drivers are updated by going to your motherboards website and download the most recent audio drivers)*
 
 - go to ethernet properties in controll panel - Control Panel > Network & Internet > Network & Sharing Center > Ethernet > Properties
 turn of everything exept for IPV4 (if you live in a house with other people using wifi and have less then 500mbps download speed leave QOS Packet Scheduler ON)
