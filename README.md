@@ -1,3 +1,6 @@
+<a href="https://www.buymeacoffee.com/fwcct" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+
 - PLEASE CHECK MY SPECS IN MY OTHER GITHUB REPO SO YOU KNOW THE HARDWARE I USE FOR THESE TWEAKS, THANKS
 
 - ALWAYS CREATE A RESTORE POINT BEFORE DOING ANY TWEAKS OR OPTIMIZATIONS
